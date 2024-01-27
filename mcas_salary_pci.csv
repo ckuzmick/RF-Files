@@ -1,4 +1,4 @@
-District,District Code,Subject,M+E #,M+E %,E #,E %,M #,M %,PM #,PM %,NM #,NM %,No. of Students Included,Part. Rate %,Score,SGP,Included In SGP,Rank,County,PCI,MHI,MFI,Households,Population,DistrictC,Avg. Scaled Score,Salary Totals,Average Salary,FTE Count
+District,DistrictCode,Subject,M+E #,M+E %,E #,E %,M #,M %,PM #,PM %,NM #,NM %,NumStudents,Part. Rate %,Score,SGP,Included In SGP,Rank,County,PCI,MHI,MFI,Households,Population,DistrictC,Score2,SalaryTotal,AverageSalary,FTECount
 Boston,350000,ELA,5828,31,885,5,4943,26,7651,41,5220,28,18699,91,484,33,10075,135,Suffolk,50344,81744,95750,271950,672814,350000,487,481668763,104813,4596
 Worcester,3480000,ELA,2743,28,393,4,2350,24,4182,43,2785,29,9710,92,484,30,5507,326,Worcester,30855,56746,71265,78780,203867,3480000,486,171799156,93339,1841
 Springfield,2810000,ELA,2245,24,241,3,2004,21,4154,44,3045,32,9444,92,480,23,5188,341,Hampden,23161,43308,54646,58344,155770,2810000,483,155184202,74014,2097
